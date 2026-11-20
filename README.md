@@ -4,7 +4,7 @@
 
 //user inputs number to be picked
 int getNumber(){
-    int number;
+   int number;
     
    std::random_device rd;
     std::mt19937 gen(rd());
